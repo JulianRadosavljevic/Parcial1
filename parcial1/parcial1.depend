@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1558043138 source:/home/alumno/Escritorio/programacion1/clases/parcial1/fantasma.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"fantasma.h"
+
+1558043203 /home/alumno/Escritorio/programacion1/clases/parcial1/funciones.h
+
+1558043116 /home/alumno/Escritorio/programacion1/clases/parcial1/fantasma.h
+
+1558051189 source:/home/alumno/Escritorio/programacion1/clases/parcial1/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1558049146 source:/home/alumno/Escritorio/programacion1/clases/parcial1/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+
+1558048970 source:/home/alumno/Escritorio/programacion1/clases/parcial1/instrumento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrumento.h"
+
+1558048608 /home/alumno/Escritorio/programacion1/clases/parcial1/instrumento.h
+
+1558051299 /home/alumno/Escritorio/programacion1/clases/parcial1/orquesta.h
+
+1558051480 source:/home/alumno/Escritorio/programacion1/clases/parcial1/musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"musico.h"
+
+1558049812 /home/alumno/Escritorio/programacion1/clases/parcial1/musico.h
+
+1558051330 source:/home/alumno/Escritorio/programacion1/clases/parcial1/orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"orquesta.h"
+
